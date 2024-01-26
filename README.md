@@ -32,3 +32,5 @@ The Dockerfile has been configured to be compatible with both ARM architecture a
 docker buildx build -t shivanshsharma1507605/http-server --platform linux/amd64,linux/arm64 --push .
 docker buildx build -t <YOUR_DOCKER_ID>/http-server .
 Replace <YOUR_DOCKER_ID> with your actual Docker ID when executing the command.
+
+Google Doc link for instructions [https://docs.google.com/document/d/1-eo2pqcTCXXaJsWtRZ584CoXzup-M_fu8y3UIJjcnrc/edit]

@@ -22,7 +22,8 @@ All the instructions provided have been meticulously implemented in the code, de
     docker run -p 8080:8080 --memory=1500m --cpus=2 http-server
     ```
     Access the server at [http://localhost:8080/data](http://localhost:8080/data).
-   [http://127.0.0.1:8080/data?n=1&m=30]
+   on my local server [http://127.0.0.1:8080/data?n=1&m=30] it was showing
+   ![Screenshot](https://raw.githubusercontent.com/shivansh1507/Http-server-Task/main/http1.png) 
 
 ## Docker Compatibility
 The Dockerfile has been configured to be compatible with both ARM architecture and x86.
